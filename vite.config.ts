@@ -9,5 +9,5 @@ export default defineConfig({
     tailwindcss()
   ],
   // This ensures your assets (CSS/JS) load correctly on GitHub's sub-path
-  base: 'rhyspendred.github.io/react-test-vibe/', 
+  base: '/react-test-vibe/', 
 })
